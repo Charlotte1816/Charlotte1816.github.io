@@ -2,7 +2,7 @@
 @def rss_description = "This is homepage of mysite"
 @def rss_pubdate = Date(2024, 7, 2)
 
-# 物理学に関する何かを書くサイト
+# 私と物理と芸術
 
 ## 概要
 
