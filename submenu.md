@@ -1,6 +1,6 @@
 +++
-title="submenu"
+title="解説記事1"
 +++
 
 
-# Test for submenu
+# 力学
