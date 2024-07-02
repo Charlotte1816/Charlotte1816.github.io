@@ -1,6 +1,5 @@
 +++
 title = "解説記事"
-tags = ["syntax", "code"]
 +++
 
 
