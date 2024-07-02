@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  物理学に関する何かを書くサイト  ]]>
+      <![CDATA[  私と物理と芸術  ]]>
     </title>
     <link> https://charlotte1816.github.io </link>
     <description>
-      <![CDATA[  物理学に関する何かを書くサイトです  ]]>
+      <![CDATA[  私と物理と芸術  ]]>
     </description>
     <atom:link
       href="https://charlotte1816.github.io/feed.xml"
@@ -32,7 +32,7 @@
   </description>  
   
   <content:encoded>
-    <![CDATA[  <h1 id="物理学に関する何かを書くサイト">物理学に関する何かを書くサイト</h1>
+    <![CDATA[  <h1 id="私と物理と芸術">私と物理と芸術</h1>
 <h2 id="概要">概要</h2>
 <p>このサイトは，物理学科の学生が物理学に関する記事をまとめたものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．</p>
 <h2 id="投稿">投稿</h2>
