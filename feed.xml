@@ -32,22 +32,15 @@
   </description>  
   
   <content:encoded>
-    <![CDATA[  <h1 id="概要">概要</h1>
-<p>このサイトは，物理学科の学生が物理学に関する記事をまとめたものである．基本的に，分かりにくい概念を分かりやすく説明することや，物理学を勉強していて私が気になったことを文字にする．</p>
-<h2 id="pages_and_structure">Pages and structure</h2>
+    <![CDATA[  <h2 id="概要">概要</h2>
+<p>このサイトは，物理学科の学生が物理学に関する記事をまとめたものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．</p>
+<h2 id="投稿">投稿</h2>
 <ul>
 <li><p><a href="https://charlotte1816.github.io/menu1/">解説記事</a></p>
 </li>
 <li><p><a href="https://charlotte1816.github.io/menu2/">考察記事</a></p>
 </li>
 <li><p><a href="https://charlotte1816.github.io/menu3/">その他</a></p>
-</li>
-</ul>
-<h2 id="references_not_really">References &#40;not really&#41;</h2>
-<ul>
-<li><p><a id="noether15" class="anchor"></a><strong>Noether</strong>,  Körper und Systeme rationaler Funktionen, 1915.</p>
-</li>
-<li><p><a id="bezanson17" class="anchor"></a><strong>Bezanson</strong>, <strong>Edelman</strong>, <strong>Karpinski</strong> and <strong>Shah</strong>, <a href="https://julialang.org/research/julia-fresh-approach-BEKS.pdf">Julia: a fresh approach to numerical computing</a>, SIAM review 2017.</p>
 </li>
 </ul>
  ]]>
