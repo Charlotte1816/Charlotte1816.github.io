@@ -1,8 +1,6 @@
 +++
-title = "考察記事"
+title = "Review"
 +++
 
-# 考察記事
-
-## 記事一覧
+# Review
 

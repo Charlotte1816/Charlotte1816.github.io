@@ -1,8 +1,8 @@
 +++
-title = "その他"
+title = Miscellaneous""
 +++
 
-# その他
+# Miscellaneous
 
 
 

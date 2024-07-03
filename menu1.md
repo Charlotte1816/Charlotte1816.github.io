@@ -1,10 +1,10 @@
 +++
-title = "解説記事"
+title = "Note"
 +++
 
 
-# 解説記事
+# Note
 
-## 記事一覧
+## Study
 
-* [解説記事1](/submenu/)
+* [一般相対論を学ぶ](/GR_study/)
