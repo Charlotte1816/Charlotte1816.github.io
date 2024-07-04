@@ -8,6 +8,8 @@ title = "studyGR"
 
 ## まずはCarrollを読む
 
+\toc
+
 まずはCarrollさんが書いた教科書\cite{Carroll}を読んでみる．この本は，
 
 * [Amazon](https://www.amazon.co.jp/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323)
