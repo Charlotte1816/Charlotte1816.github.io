@@ -26,9 +26,12 @@ rss_full_content = true
 <!--
 Add here global latex commands to use throughout your pages.
 -->
+
+<!--数式マクロ-->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 
+<!--図マクロ-->
 \newcommand{\figenv}[3]{
 ~~~
 <figure style="text-align:center;">
@@ -37,3 +40,38 @@ Add here global latex commands to use throughout your pages.
 </figure>
 ~~~
 }
+
+<!--定理環境-->
+
+\newcommand{\truth}[2]{
+  @@truth
+  **事実**: (_!#1_)
+  #2
+  @@
+}
+
+.truth {
+  background-color: aliceblue;
+  border-left: 5px solid cornflowerblue;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+
+\newcommand{\eg}[2]{
+  @@eg
+  **例**: (_!#1_)
+  #2
+  @@
+}
+
+.eg {
+  background-color: honeydew;
+  border-left: 5px solid seagreen;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+
+
+
