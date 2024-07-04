@@ -8,7 +8,7 @@ title = "studyGR"
 
 ## まずはCarrollを読む
 
-まずはCarrollさんが書いた教科書\cite{Carroll}を読んでみる．
+まずはCarrollさんが書いた教科書\cite{Carroll}を読んでみる．この本は，
 
 * [Amazon](https://www.amazon.co.jp/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323)
 
@@ -34,7 +34,7 @@ title = "studyGR"
 
 時空の各点$p$での全てのベクトルの集合を$p$での**接ベクトル空間(Tangent space)**という[^1]．ここでいうベクトルとは，(実)ベクトル空間の元のことである．時空の各点で1つのベクトルが定義し，それらを時空全体から集めてきた集合を**ベクトル場**という．\\
 
-ベクトル$A$は何らかの基底ベクトル$\hat{e}_{(\mu)},\mu=0,1,2,3$で，
+ベクトル$A$は何らかの基底ベクトル$\hat{e}_{(\mu)}\,(\mu=0,1,2,3)$で，
 $$ 
 A=A^{\mu}\hat{e}_{(\mu)}
 $$
@@ -62,9 +62,7 @@ $$
 
 #### 双対ベクトル(1-形式)
 
-\truth{テスト}{
-    アリスブルーの背景が表示されたら成功．
-}
+
 
 ## 参考文献
 
