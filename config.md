@@ -3,7 +3,7 @@ Add here global page variables to use throughout your website.
 -->
 +++
 author = "Charlotte"
-mintoclevel = 1
+mintoclevel = 2
 maxtoclevel = 4
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
