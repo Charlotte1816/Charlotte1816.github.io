@@ -45,7 +45,7 @@ Add here global latex commands to use throughout your pages.
 
 \newcommand{\truth}[2]{
   @@truth
-  **事実**: (_!#1_)
+  **事実**: (!#1)
   #2
   @@
 }
@@ -60,7 +60,7 @@ Add here global latex commands to use throughout your pages.
 
 \newcommand{\eg}[2]{
   @@eg
-  **例**: (_!#1_)
+  **例**: (!#1)
   #2
   @@
 }
