@@ -255,6 +255,19 @@ SIDE BAR
 .menu-list-item.active .menu-list-child-list {
   display: block;
 }
+.menu-list-item.active a {
+  font-weight:600;
+  color:#27262b;
+  text-decoration:none
+}
+.menu-list-child-list{
+  margin-top: 0.5em;
+  padding-left: 0.5em;
+}
+ul.menu-list-child-list li {
+  font-size: 80%;
+}
+
 
 .menu-list-link {
   display: block;
@@ -262,11 +275,11 @@ SIDE BAR
   padding-bottom: 0.25rem;
 }
 
-.menu-list-link.active {
+/*.menu-list-link.active {
   font-weight: 600;
   color: #27262b;
   text-decoration: none;
-}
+} */
 
 .side-bar .footer {
   width: 150px;
