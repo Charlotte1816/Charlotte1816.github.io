@@ -59,5 +59,12 @@ Add here global latex commands to use throughout your pages.
   @@
 }
 
+\newcommand{\def}[2]{
+  @@eg
+  **定義**: (!#1)
+  #2
+  @@
+}
+
 
 

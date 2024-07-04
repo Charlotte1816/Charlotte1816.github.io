@@ -664,6 +664,15 @@ franklin-toc {
 .eg {
   background-color: honeydew;
   border-left: 5px solid seagreen;
+  border-radius: 10px;
+  padding: 0.5px;
+  margin-bottom: 1em;
+}
+
+.def {
+  background-color: mistyrose;
+  border-left: 5px solid indianred;
+  border-radius: 10px;
   padding: 0.5px;
   margin-bottom: 1em;
 }
