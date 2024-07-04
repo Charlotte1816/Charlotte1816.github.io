@@ -16,3 +16,7 @@ title = "Note"
 * [相対論](/GR/)
 
 * [物理数学](/MP/)
+
+ - [群論](/GROUP/)
+
+ - [Green関数論](/GREEN/)
