@@ -8,10 +8,13 @@ title = "studyGR"
 
 ## まずはCarrollを読む
 
-まずはCarrollさんが書いた教科書\cite{carroll}を読んでみる．
+まずはCarrollさんが書いた教科書\cite{Carroll}を読んでみる．
+
 * [Amazon](https://www.amazon.co.jp/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323)
 
 で買えます(2万円)．が，ググるとなんか出てきます．
+
+\figenv{}{/assets/Carroll.jpg}{width:50%}
 
 ### 概要
 
@@ -31,10 +34,10 @@ title = "studyGR"
 
 #### ベクトル
 
-
+時空の各点$p$での全てのベクトルの集合を$p$での**接ベクトル空間(tangent space)**という．ここでいうベクトルとは，(実)ベクトル空間の元のことである．
 
 
 ## 参考文献
 
-\biblabel{carroll}
+\biblabel{Carroll}{[Carroll,2003]}
 * Sean M. Carroll, Spacetime and Geometry: An Introduction to General Relativity, Benjamin Cummings, 2003
