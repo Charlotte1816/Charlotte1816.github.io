@@ -33,15 +33,15 @@
   
   <content:encoded>
     <![CDATA[  <h1 id="私と物理と芸術と">私と物理と芸術と</h1>
-<h2 id="概要">概要</h2>
-<p>このサイトは，物理学科の学生が物理学に関する記事を書き留めておくためのものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．</p>
-<h2 id="投稿">投稿</h2>
+<h2 id="abstract">Abstract</h2>
+<p>このサイトは，物理学科の学生が物理学に関する事を書き留めておくためのものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．</p>
+<h2 id="pages">Pages</h2>
 <ul>
-<li><p><a href="https://charlotte1816.github.io/menu1/">解説記事</a></p>
+<li><p><a href="https://charlotte1816.github.io/Note/">Note</a></p>
 </li>
-<li><p><a href="https://charlotte1816.github.io/menu2/">考察記事</a></p>
+<li><p><a href="https://charlotte1816.github.io/Review/">Review</a></p>
 </li>
-<li><p><a href="https://charlotte1816.github.io/menu3/">その他</a></p>
+<li><p><a href="https://charlotte1816.github.io/Miscellaneous/">Miscellaneous</a></p>
 </li>
 </ul>
  ]]>
