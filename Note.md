@@ -17,6 +17,6 @@ title = "Note"
 
 * [物理数学](/MP/)
 
- - [群論](/GROUP/)
+  + [群論](/GROUP/)
 
- - [Green関数論](/GREEN/)
+  + [Green関数論](/GREEN/)
