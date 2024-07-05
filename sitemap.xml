@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://charlotte1816.github.io/Note/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://charlotte1816.github.io/Miscellaneous/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://charlotte1816.github.io/studyGR/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -21,6 +9,12 @@
 </url>
 <url>
     <loc>https://charlotte1816.github.io/NOTE/MP/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/NOTE/NOTE/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -50,13 +44,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/Review/index.html</loc>
+    <loc>https://charlotte1816.github.io/NOTE/QM/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/NOTE/QM/index.html</loc>
+    <loc>https://charlotte1816.github.io/REVIEW/REVIEW/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/MISCELLANEOUS/MISCELLANEOUS/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
