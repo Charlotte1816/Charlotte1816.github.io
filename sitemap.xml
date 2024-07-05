@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://charlotte1816.github.io/GREEN/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://charlotte1816.github.io/EM/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://charlotte1816.github.io/MP/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://charlotte1816.github.io/Note/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,7 +20,31 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/QM/index.html</loc>
+    <loc>https://charlotte1816.github.io/NOTE/MP/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/NOTE/MP/GREEN/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/NOTE/TDSM/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/NOTE/AM/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://charlotte1816.github.io/NOTE/MP/GROUP/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -50,25 +56,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/AM/index.html</loc>
+    <loc>https://charlotte1816.github.io/NOTE/QM/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/GR/index.html</loc>
+    <loc>https://charlotte1816.github.io/NOTE/GR/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://charlotte1816.github.io/TDSM/index.html</loc>
-    <lastmod>2024-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://charlotte1816.github.io/GROUP/index.html</loc>
+    <loc>https://charlotte1816.github.io/NOTE/EM/index.html</loc>
     <lastmod>2024-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
