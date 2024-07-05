@@ -1,8 +1,8 @@
 +++
-title = "Miscellaneous"
+title = "MISCELLANEOUS"
 +++
 
-# Miscellaneous
+# MISCELLANEOUS
 
 
 

@@ -4,18 +4,18 @@
 
 # PHYSICS NOTE
 
-## Abstract
+## ABSTRACT
 
 <!--\tableofcontents you can use \toc as well -->
 
 このサイトは，物理学科の学生が物理学に関する事を書き留めておくためのものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．
 
 
-## Pages
+## PAGES
 
-* [Note](/Note/)
-* [Review](/Review/)
-* [Miscellaneous](/Miscellaneous/)
+* [NOTE](/NOTE/)
+* [REVIEW](/REVIEW/)
+* [MISCELLANEOUS](/MISCELLANEOUS/)
 
 
 

@@ -1,9 +1,9 @@
 +++
-title = "Note"
+title = "NOTE"
 +++
 
 
-# Note
+# NOTE
 
 * [力学/解析力学](/AM/)
 
