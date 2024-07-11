@@ -4,6 +4,6 @@ title = "MP"
 
 # 物理数学
 
-* [群論](/GROUP/)
+* [群論](/NOTE/MP/GROUP/)
 
-* [Green関数論](/GREEN/)
+* [Green関数論](/NOTE/MP/GREEN/)
