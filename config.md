@@ -36,6 +36,7 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\dv}[2]{\frac{\mathrm{d}#1}{\mathrm{d}#2}}
 \newcommand{\pdv}[2]{\frac{\partial #1}{\partial #2}}
 \newcommand{\bm}[1]{\boldsymbol{#1}}
+\newcommand{\grad}{\mathrm{grad}\,}
 
 <!--図マクロ-->
 
