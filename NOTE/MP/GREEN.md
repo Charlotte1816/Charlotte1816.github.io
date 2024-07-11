@@ -38,11 +38,13 @@ title = "GREEN"
 
 \def{Green関数}{
     境界条件
-    <ul>
-     <li>$u(\bm{r})=0$</li>
-     <li>$\bm{n}(\bm{r})\cdot\grad u(\bm{r})=0$</li>
-     <li>$A(\bm{r})u(\bm{r})+B(\bm{r})\bm{n}(\bm{r})\cdot \grad u(\bm{r})=0$</li>
-    </ul>
+    \begin{align}
+    &(1).\quad u(\bm{r})=0
+    \\
+    &(2).\quad \bm{n}(\bm{r})\cdot\grad u(\bm{r})=0
+    \\
+    &(3).\quad A(\bm{r})u(\bm{r})+B(\bm{r})\bm{n}(\bm{r})\cdot \grad u(\bm{r})=0
+    \end{align}
     を満たすような主要解をGreen関数と呼ぶ．なお，ここで$\bm{n}(\bm{r})$は位置$\bm{r}$における単位法線ベクトルで，$A(\bm{r}),B(\bm{r})$は任意の関数である[^2]．
 }
 
