@@ -35,6 +35,7 @@ Add here global latex commands to use throughout your pages.
 
 \newcommand{\dv}[2]{\frac{\mathrm{d}#1}{\mathrm{d}#2}}
 \newcommand{\pdv}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\bm}[1]{\boldsymbol{#1}}
 
 <!--図マクロ-->
 
@@ -64,7 +65,7 @@ Add here global latex commands to use throughout your pages.
 }
 
 \newcommand{\def}[2]{
-  @@eg
+  @@def
   **定義**: (!#1)
   #2
   @@
