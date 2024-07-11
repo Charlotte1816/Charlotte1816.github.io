@@ -51,8 +51,21 @@ title = "GREEN"
 [^2]: 3番目の境界条件の特別な場合として1番目と2番目の条件を含んでいることに注意する．
 
 
+もしGreen関数が求まれば，方程式
+$$
+Lu(\bm{r})+f(r)=0
+$$
+の解は，
+$$\label{solution eq}
+u(\bm{r})=\int G(\bm{r},\bm{r}')f(\bm{r}')\dd{\bm{r}'}
+$$
+となる．なぜなら，
+$$
+Lu(\bm{r})=\int LG(\bm{r},\bm{r})f(\bm{r}')\dd{\bm{r}'}=-\int \delta(\bm{r}-\bm{r}')f(\bm{r}')\dd{\bm{r}'}=-f(\bm{r}')
+$$
+となるからである．\\
 
-
+このようにGreen関数が求まると，$f(\bm{r})$の形とは無関係に方程式の解を一般的な形\eqref{solution eq}に書くことができる．
 
 
 
