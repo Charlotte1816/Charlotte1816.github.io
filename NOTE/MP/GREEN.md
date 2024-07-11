@@ -53,7 +53,7 @@ title = "GREEN"
 
 もしGreen関数が求まれば，非斉次方程式
 $$
-Lu(\bm{r})+f(r)=0
+Lu(\bm{r})+f(\bm{r})=0
 $$
 の解は，
 $$\label{solution eq}
