@@ -3,19 +3,9 @@ title = "NOTE"
 +++
 
 
-# NOTE
+# Note
 
-<!--
-* [力学/解析力学](/NOTE/AM/)
-
-* [電磁気学](/NOTE/EM/)
-
-* [熱力学/統計力学](/NOTE/TDSM/)
-
-* [量子力学](/NOTE/QM/)
-
-* [相対論](/NOTE/GR/)
-
+<!--exmaple
 * [物理数学](/NOTE/MP/)
 
   + [群論](/NOTE/MP/GROUP/)
