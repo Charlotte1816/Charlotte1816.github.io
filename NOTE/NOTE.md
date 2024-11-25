@@ -5,6 +5,7 @@ title = "NOTE"
 
 # NOTE
 
+<!--
 * [力学/解析力学](/NOTE/AM/)
 
 * [電磁気学](/NOTE/EM/)
@@ -20,3 +21,5 @@ title = "NOTE"
   + [群論](/NOTE/MP/GROUP/)
 
   + [Green関数論](/NOTE/MP/GREEN/)
+-->
+
