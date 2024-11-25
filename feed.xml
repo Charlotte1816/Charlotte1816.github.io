@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  PHYSICS NOTE  ]]>
+      <![CDATA[  Physics Note  ]]>
     </title>
     <link> https://charlotte1816.github.io </link>
     <description>
-      <![CDATA[  PHYSICS NOTE  ]]>
+      <![CDATA[  Physics Note  ]]>
     </description>
     <atom:link
       href="https://charlotte1816.github.io/feed.xml"
@@ -32,16 +32,16 @@
   </description>  
   
   <content:encoded>
-    <![CDATA[  <h1 id="physics_note">PHYSICS NOTE</h1>
-<h2 id="abstract">ABSTRACT</h2>
-<p>このサイトは，物理学科の学生が物理学に関する事を書き留めておくためのものである．投稿する記事は様々で，備忘録として残しておきたい事や，抄録としてまとめておきたい事，個人的に気になった事を書いている．</p>
-<h2 id="pages">PAGES</h2>
+    <![CDATA[  <h1 id="physics_note">Physics Note</h1>
+<h2 id="abstract">Abstract</h2>
+<p>勉強したことをまとめる．</p>
+<h2 id="pages">Pages</h2>
 <ul>
-<li><p><a href="https://charlotte1816.github.io/NOTE/NOTE/">NOTE</a></p>
+<li><p><a href="https://charlotte1816.github.io/NOTE/NOTE/">Note</a></p>
 </li>
-<li><p><a href="https://charlotte1816.github.io/REVIEW/REVIEW/">REVIEW</a></p>
+<li><p><a href="https://charlotte1816.github.io/REVIEW/REVIEW/">Review</a></p>
 </li>
-<li><p><a href="https://charlotte1816.github.io/MISCELLANEOUS/MISCELLANEOUS/">MISCELLANEOUS</a></p>
+<li><p><a href="https://charlotte1816.github.io/MISCELLANEOUS/MISCELLANEOUS/">Miscellaneous</a></p>
 </li>
 </ul>
  ]]>
