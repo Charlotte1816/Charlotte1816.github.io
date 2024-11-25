@@ -258,7 +258,10 @@ td {
 
 body { counter-reset: eqnum; }
 
-.katex { font-size: 1em !important; }
+.katex {
+  font-size: 1em !important;
+  margin: 0 0.2em;
+}
 
 .katex-display .katex {
   /* Overwrite KaTeX settings. */
