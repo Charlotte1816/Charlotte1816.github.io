@@ -2,7 +2,7 @@
 @def rss_description = "This is homepage of mysite"
 @def rss_pubdate = Date(2024, 7, 2)
 
-# Physics Note
+# Physics Notes
 
 <!-- ## Abstract -->
 
@@ -13,8 +13,8 @@
 
 ## Pages
 
-* [Note](/NOTE/NOTE/)
-* [Review](/REVIEW/REVIEW/)
+* [Notes](/NOTE/NOTE/)
+* [Reviews](/REVIEW/REVIEW/)
 * [Miscellaneous](/MISCELLANEOUS/MISCELLANEOUS/)
 
 

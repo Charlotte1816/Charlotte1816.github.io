@@ -2,5 +2,5 @@
 title = "REVIEW"
 +++
 
-# Review
+# Reviews
 

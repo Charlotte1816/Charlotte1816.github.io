@@ -3,7 +3,7 @@ title = "NOTE"
 +++
 
 
-# Note
+# Notes
 
 <!--exmaple
 * [物理数学](/NOTE/MP/)
