@@ -4,11 +4,11 @@
 
 # Physics Note
 
-## Abstract
+<!-- ## Abstract -->
 
 <!--\tableofcontents you can use \toc as well -->
 
-勉強したことをまとめる．
+
 
 
 ## Pages
