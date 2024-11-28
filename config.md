@@ -72,10 +72,10 @@ Add here global latex commands to use throughout your pages.
   @@
 }
 
-\newcommand{\box}[2]{
+\newcommand{\box}[1]{
   @@box
-  **引用**: (!#1)
-  #2
+  **引用**:
+  #1
   @@
 }
 
