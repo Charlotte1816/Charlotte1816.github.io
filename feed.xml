@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  Physics Note  ]]>
+      <![CDATA[  Physics Notes  ]]>
     </title>
     <link> https://charlotte1816.github.io </link>
     <description>
-      <![CDATA[  Physics Note  ]]>
+      <![CDATA[  Physics Notes  ]]>
     </description>
     <atom:link
       href="https://charlotte1816.github.io/feed.xml"
@@ -32,12 +32,12 @@
   </description>  
   
   <content:encoded>
-    <![CDATA[  <h1 id="physics_note">Physics Note</h1>
+    <![CDATA[  <h1 id="physics_notes">Physics Notes</h1>
 <h2 id="pages">Pages</h2>
 <ul>
-<li><p><a href="https://charlotte1816.github.io/NOTE/NOTE/">Note</a></p>
+<li><p><a href="https://charlotte1816.github.io/NOTE/NOTE/">Notes</a></p>
 </li>
-<li><p><a href="https://charlotte1816.github.io/REVIEW/REVIEW/">Review</a></p>
+<li><p><a href="https://charlotte1816.github.io/REVIEW/REVIEW/">Reviews</a></p>
 </li>
 <li><p><a href="https://charlotte1816.github.io/MISCELLANEOUS/MISCELLANEOUS/">Miscellaneous</a></p>
 </li>
