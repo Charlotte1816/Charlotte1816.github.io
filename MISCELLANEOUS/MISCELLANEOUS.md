@@ -4,6 +4,6 @@ title = "MISCELLANEOUS"
 
 # Miscellaneous
 
-* [春と修羅について](/MISCELLANEOUS/SPRING/)
+* [『春と修羅』について](/MISCELLANEOUS/SPRING/)
 
 

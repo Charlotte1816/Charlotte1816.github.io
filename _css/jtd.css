@@ -680,3 +680,10 @@ franklin-toc {
   padding: 10px;
   margin-bottom: 1em;
 }
+
+.box {
+  background-color: white;
+  border-left: 5px solid blue;
+  padding: 10px;
+  margin-bottom: 1em;
+}
