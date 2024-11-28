@@ -13,3 +13,4 @@ title = "NOTE"
   + [Green関数論](/NOTE/MP/GREEN/)
 -->
 
+---
