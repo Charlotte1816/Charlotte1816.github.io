@@ -17,17 +17,11 @@ maxtoclevel = 3
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_sitemap = true
 generate_rss = true
 rss_website_title = "Physics Note"
 rss_website_descr = "Physics Note"
 rss_website_url   = "https://charlotte1816.github.io"
 rss_full_content = true
-
-head_extra = """
-<meta name="google-site-verification" content="alJpM2Ht63s1FhFvdEI02EZ8J8lnqjUArJOczGDfc9M">
-"""
-
 +++
 
 
