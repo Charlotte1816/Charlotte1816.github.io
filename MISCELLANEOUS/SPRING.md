@@ -1,5 +1,5 @@
 +++
-title=SPRING
+title="SPRING"
 +++
 
 # 春と修羅について
