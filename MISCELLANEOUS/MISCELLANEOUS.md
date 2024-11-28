@@ -1,5 +1,5 @@
 +++
-title = "MISCELLANEUS"
+title = "MISCELLANEOUS"
 +++
 
 # Miscellaneous
