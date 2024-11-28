@@ -65,10 +65,10 @@ Add here global latex commands to use throughout your pages.
   @@
 }
 
-\newcommand{\def}[2]{
+\newcommand{\def}[1]{
   @@def
-  **定義**: (!#1)
-  #2
+  **定義**:
+  #1
   @@
 }
 
