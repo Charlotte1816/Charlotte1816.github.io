@@ -22,6 +22,7 @@ rss_website_title = "Physics Note"
 rss_website_descr = "Physics Note"
 rss_website_url   = "https://charlotte1816.github.io"
 rss_full_content = true
+keep_path = ["google2f11fcc6b81334b8.html"]
 +++
 
 
