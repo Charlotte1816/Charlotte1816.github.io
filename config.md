@@ -55,17 +55,17 @@ Add here global latex commands to use throughout your pages.
 
 <!--定理環境-->
 
-\newcommand{\truth}[2]{
+\newcommand{\truth}[1]{
   @@truth
-  **事実**: (!#1)
-  #2
+  **事実**:
+  #1
   @@
 }
 
-\newcommand{\eg}[2]{
+\newcommand{\eg}[1]{
   @@eg
-  **例**: (!#1)
-  #2
+  **例**:
+  #1
   @@
 }
 
@@ -83,3 +83,9 @@ Add here global latex commands to use throughout your pages.
   @@
 }
 
+\newcommand{\rem}[1]{
+  @@rem
+  **注意**:
+  #1
+  @@
+}
