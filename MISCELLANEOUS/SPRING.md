@@ -164,7 +164,7 @@ title="春と修羅"
 
 概日リズムとは，約24時間周期で変動する生理現象であり，ほとんどの生物に存在する．体内時計といった方が分かりやすいかもしれない．
 
-文献$\cite{Joh04}$によると，その定義は次のように与えられている：
+文献\cite{Joh04}によると，その定義は次のように与えられている：
 
 \def{
   **概日リズム**とは，次の3つの基準を満たす生理現象のことである：
@@ -181,6 +181,7 @@ title="春と修羅"
 
 \biblabel{KM98}{[KM98]}
 [KM98] 宮沢賢治，宮沢賢治全集1，ちくま文庫，1998
+
 \biblabel{Joh04}{[Joh04]}
 [Joh04] Johnson C (2004). Chronobiology: Biological Timekeeping. Sunderland, Massachusetts, USA: Sinauer Associates, Inc. pp. 67–105.
 
