@@ -180,8 +180,8 @@ title="春と修羅"
 ## 参考文献
 
 \biblabel{KM98}{[KM98]}
-[KM98]. 宮沢賢治，宮沢賢治全集1，ちくま文庫，1998
+[KM98] 宮沢賢治，宮沢賢治全集1，ちくま文庫，1998
 \biblabel{Joh04}{[Joh04]}
-[Joh04]. Johnson C (2004). Chronobiology: Biological Timekeeping. Sunderland, Massachusetts, USA: Sinauer Associates, Inc. pp. 67–105.
+[Joh04] Johnson C (2004). Chronobiology: Biological Timekeeping. Sunderland, Massachusetts, USA: Sinauer Associates, Inc. pp. 67–105.
 
 ---
