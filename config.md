@@ -18,6 +18,7 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
+generate_sitemap = true
 rss_website_title = "Physics Notes"
 rss_website_descr = "Physics Notes"
 rss_website_url   = "https://charlotte1816.github.io"
