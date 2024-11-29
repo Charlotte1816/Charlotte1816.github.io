@@ -156,6 +156,8 @@ title="春と修羅"
   第四次延長のなかで主張されます
 }
 
+---
+
 ### 交流電燈と概日リズム
 
 冒頭の「有機交流電燈」という「私」に対する比喩表現(おそらく宮沢賢治の造語)は，**概日リズム(circadian rhythm)**(Ref.[Wikipedia](https://en.wikipedia.org/wiki/Circadian_rhythm))に由来する表現であると思われる．
@@ -181,3 +183,5 @@ title="春と修羅"
 [KM98]. 宮沢賢治，宮沢賢治全集1，ちくま文庫，1998
 \biblabel{Joh04}{[Joh04]}
 [Joh04]. Johnson C (2004). Chronobiology: Biological Timekeeping. Sunderland, Massachusetts, USA: Sinauer Associates, Inc. pp. 67–105.
+
+---
