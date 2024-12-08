@@ -1,5 +1,5 @@
 +++
-title = "REVIEW"
+title = "Reviews"
 +++
 
 # Reviews
