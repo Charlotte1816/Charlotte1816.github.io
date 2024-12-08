@@ -13,9 +13,9 @@
 
 ## Pages
 
-* [Notes](/Notes/)
-* [Reviews](/REVIEW/)
-* [Miscellaneous](/MISCELLANEOUS/)
+* [Notes](/Notes/Notes)
+* [Reviews](/REVIEW/REVIEW)
+* [Miscellaneous](/MISCELLANEOUS/MISCELANEOUS)
 
 ---
 
