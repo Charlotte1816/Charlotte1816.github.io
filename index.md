@@ -15,7 +15,7 @@
 
 * [Notes](/Notes/Notes/)
 * [Reviews](/Reviews/Reviews/)
-* [Miscellaneous](/Miscelaneous/Miscellaneous/)
+* [Miscellaneous](/Miscellaneous/Miscellaneous/)
 
 ---
 
