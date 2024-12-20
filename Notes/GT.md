@@ -51,11 +51,16 @@ $X$が集合であるとき，写像$\phi:X\times X\to X$のことを集合$X$�
         a\cdot a=a,\quad a\cdot b=b,\quad b\cdot a=b,\quad b\cdot b=a
     \]
     と定義する．まとめると，下の表のようになる：
-    ```julia:./tableinput/gen
-    grouptablecsv = "$a$,$a$,$a\cdot b=b$
-    $b$,$b$,$a$"
-    write("assets/pages/tableinput/grouptablecsv2.csv", grouptablecsv)
-    ```
-    \tableinput{,$a$,$b$}{./tableinput/grouptablecsv2.csv}
+    \[
+        \begin{array}{|c||c|c|}
+        \hline
+        & $a$ & $b$ \\
+        \hline\hline
+        $a$ & $a$ $a\cdot b=b$ \\
+        \hline
+        $b$ & $b$ & $a$ \\
+        \hline
+        \end{array}
+    \]
     このような表のことを**群表(group table)**と呼ぶ．なお，4つの積は，(行の元)$\times$(列の元)を表すものとする．このとき$G$は位数2の有限群である．また明らかに可換群であることも分かる．
 }
