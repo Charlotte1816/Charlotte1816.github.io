@@ -1,7 +1,0 @@
-+++
-title = "Miscellaneous"
-+++
-
-# Miscellaneous
-
----
