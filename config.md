@@ -34,7 +34,8 @@ Add here global latex commands to use throughout your pages.
 
 <!--数式マクロ-->
 
-\newcommand{\R}{\mathbb R}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\dd}[1]{\mathrm{d}#1}
 \newcommand{\dv}[2]{\frac{\mathrm{d}#1}{\mathrm{d}#2}}
@@ -55,9 +56,9 @@ Add here global latex commands to use throughout your pages.
 
 <!--定理環境-->
 
-\newcommand{\truth}[1]{
-  @@truth
-  **事実**:
+\newcommand{\note}[1]{
+  @@note
+  **Notation**:
   #1
   @@
 }
@@ -76,9 +77,30 @@ Add here global latex commands to use throughout your pages.
   @@
 }
 
-\newcommand{\box}[1]{
+\newcommand{\thm}[1]{
   @@box
-  **引用**:
+  **定理**:
+  #1
+  @@
+}
+
+\newcommand{\prop}[1]{
+  @@box
+  **命題**:
+  #1
+  @@
+}
+
+\newcommand{\lem}[1]{
+  @@box
+  **補題**:
+  #1
+  @@
+}
+
+\newcommand{\cor}[1]{
+  @@box
+  **系**:
   #1
   @@
 }
@@ -89,3 +111,4 @@ Add here global latex commands to use throughout your pages.
   #1
   @@
 }
+

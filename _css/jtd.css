@@ -660,9 +660,9 @@ franklin-toc {
     PAGE-DIVS
 ================================================================== */
 
-.truth {
-  background-color: aliceblue;
-  border-left: 5px solid cornflowerblue;
+.note {
+  background-color: lemonchiffon;
+  border-left: 5px solid orange;
   padding: 10px;
   margin-bottom: 1em;
 }
