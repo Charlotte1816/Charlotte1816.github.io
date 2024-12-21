@@ -9,6 +9,6 @@ title = "Notes"
 
 ## 群論
 
-* [Note of Group Theory](\Notes\GTnote.pdf)
+* [Note of Group Theory](\Notes\GTnote.pdf\)
 
 ---
