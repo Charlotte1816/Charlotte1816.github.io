@@ -23,7 +23,7 @@ title = "Notes"
 -->
 
 ~~~
-<iframe src="/Notes/GTnote.pdf" width="100%" height="600px" style="overflow: auto; border: none;"></iframe>
+<iframe src="/Notes/GTnote.pdf" width="100%" height="600px"></iframe>
 ~~~
 
 ---
