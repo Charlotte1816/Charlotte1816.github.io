@@ -13,14 +13,13 @@ title = "Notes"
 
 ---
 
+\rem{
+    埋め込まれたPDFが正しく表示されない場合があります．
+}
+
 ## 群論
 
-* [Note of Group Theory](/Notes/GTnote.pdf)
-
-<!--~~~
-<embed src="/Notes/GTnote.pdf" type="application/pdf" width="100%" height="600px">
-~~~
--->
+* Note of Group Theory [PDF](/Notes/GTnote.pdf)
 
 ~~~
 <iframe src="/Notes/GTnote.pdf" width="100%" height="600px"></iframe>
