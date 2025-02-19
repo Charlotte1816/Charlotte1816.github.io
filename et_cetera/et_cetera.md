@@ -8,8 +8,6 @@ title = "et_cetera"
 
 # et cetera
 
----
-
 * [リンク集](/et_cetera/links/)
 
 ---
