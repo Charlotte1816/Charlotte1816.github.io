@@ -68,35 +68,38 @@ title = "et_cetera"
 
 * [Physics Stack Exchange](https://physics.stackexchange.com/)
     Webサービス企業Stack Exchangeが提供する，物理学に関するサイト．質疑応答形式で物理学に関する様々な議論が日々交わされている．
-
+<!--
 * [清水明のホームページ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/shmz)
     物理学者の清水明氏のサイト．『熱力学の基礎』や『統計力学の基礎』などの有名な教科書の補足や修正・改良点も読める．他にも講義の板書の写真や，スライドも公開されている．
-
+-->
 * [素粒子論研究](https://www2.yukawa.kyoto-u.ac.jp/~soken.editorial/)
     基礎物理学研究所の素粒子論グループが発行している機関誌．素粒子論に関する論文，研究会報告書，講義ノート等が掲載されている．
-
+<!--
 * [Kurasawa's Home Page](http://kurasawa.c.ooco.jp/)
     物理学者の倉澤治樹氏のサイト．幅広い分野の講義ノートが公開されており，参考になる．
-
+-->
+<!--
 * [堀田昌寛氏のnote](https://note.com/quantumuniverse)
     物理学者の堀田昌寛氏のnote．著書『入門現代の量子力学 -量子情報・量子測定を中心として-』に関する補足や，その他物理学に関する様々な記事が公開されている．
-
+-->
+<!--
 * [Ryusuke Jinno's homepage](https://jinno.sakura.ne.jp/jinno/index.html)
     物理学者の神野隆介氏のサイト．量子力学や特殊相対論のとても見やすい講義ノートや課題，試験問題が公開されている．
-
+-->
 * [日本物理学会誌](https://www.jstage.jst.go.jp/browse/butsuri/-char/ja)
     一般社団法人 日本物理学会が発行する会誌．物理学をめぐる動向や物理学と社会との関わりなど，会員にとって必要かつ有益な情報を報告・解説・学会記事などの形で掲載している．1946年の創刊号から大量のバックナンバーを読むことが出来る．
-
+<!--
 * [田崎によるwebページ](https://www.gakushuin.ac.jp/~881791/indexJ.html)
     物理学者の田崎晴明氏のサイト．講義ノートや講演スライド，有名な著書『熱力学 -現代的な視点から-』や『統計力学I,II』などの補足なども読める．同氏の[Youtubeチャンネル](https://www.youtube.com/@haltasaki)からも非常に有益な動画が公開されている．
-
+-->
 * [David Tong's site](https://www.damtp.cam.ac.uk/user/tong/bio.html)
     物理学者のDavid Tong氏のサイト．学部レベルから大学院レベルまでの非常に豊富な数の講義ノートおよび問題が公開されている．
-
+<!--
 * [立川裕二氏のサイト](https://member.ipmu.jp/yuji.tachikawa/)
     物理学者の立川裕二氏のサイト．論文に至る経緯や，講義ノート，多くの記事，学生へのアドバイスなどを読むことが出来る．同氏の[Youtubeチャンネル](https://www.youtube.com/@iroganai/featured)からも非常に有益な動画が公開されている．
-
+-->
+<!--
 * [山崎雅人氏のサイト](https://member.ipmu.jp/masahito.yamazaki/index-j.shtml)
     物理学者の山崎雅人氏のサイト．物理学に関する様々な記事が公開されている．Book Guideが豊富でとても参考になった．
-
+-->
 ---
