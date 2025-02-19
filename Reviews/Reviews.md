@@ -2,8 +2,8 @@
 title = "Reviews"
 +++
 
-@def title = "Reviews"
-@def description = "教科書のレビューや本の紹介など"
+@def rss_title = "Reviews"
+@def rss_description = "教科書のレビューや本の紹介など"
 
 # Reviews
 

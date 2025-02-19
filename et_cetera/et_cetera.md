@@ -2,8 +2,8 @@
 title = "et_cetera"
 +++
 
-@def title = "et cetera"
-@def description = "その他"
+@def rss_title = "et cetera"
+@def rss_description = "その他"
 
 # et cetera
 

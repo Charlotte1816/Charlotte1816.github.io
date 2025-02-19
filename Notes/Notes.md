@@ -2,8 +2,8 @@
 title = "Notes"
 +++
 
-@def title = "Notes"
-@def description = "物理学に関するノート"
+@def rss_title = "Notes"
+@def rss_description = "物理学に関するノート"
 
 # Notes
 
