@@ -35,15 +35,8 @@
     <![CDATA[  
 <h1 id="reviews">Reviews</h1>
 <hr />
-<p><strong>目次</strong></p>
-<div class="franklin-toc"><ol><li>好きな本<ol><li>物理学書</li></ol></li></ol></div>
-<hr />
-<h2 id="好きな本">好きな本</h2>
-<h3 id="物理学書">物理学書</h3>
 <ul>
-<li><p><a href="https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E#overview">D.J.Griffiths and D.F.Schroeter, Introduction to Quantum Mechanics</a>   標準的な量子力学の&#40;特に英語圏で&#41;有名な教科書．非常に簡潔な記述で，余計な混乱を一切引き起こさせない素晴らしい本だと思います．清水明氏の『<a href="https://www.saiensu.co.jp/search/?isbn&#61;978-4-7819-1062-8&amp;y&#61;2004">量子論の基礎</a>』で量子論を概観した後，こちらの本で学部レベルの基礎知識を付けるのが良いと思う．章ごとでなく，節ごとに問題が付いているので，ひとつひとつ手を動かしながら知識を身に着けることができると思う&#40;解答は付いていないが，古い版の解答や有志による解答が見つかる&#41;．洋書であることが唯一の欠点だが，平易な英語で書かれていると思うので，それほど苦労はしないはず．</p>
-</li>
-<li><p><a href="https://www.maruzen-publishing.co.jp/book/b10120449.html">D.J.Griffiths，電磁気学I,II</a>   先に挙げた量子力学の教科書と同じ著者による標準的な電磁気学の&#40;特に英語圏で&#41;有名な教科書．『<a href="https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview">Introduction to Electrodynamics</a>』の和訳である．こちらも非常に簡潔な記述で，特に例や問題が豊富な素晴らしい本だと思う．第一章のベクトル解析にも60ページほど割かれており分かりやすい．個人的には砂川重信氏の『<a href="https://www.kinokuniya.co.jp/f/dsg-01-9784314008549">理論電磁気学</a>』の第一章で電磁気学を概観した後，こちらの本でひとつずつ理解を深めるのが良いと思う．II巻の方では特殊相対論も約80ページに渡って丁寧に説明されている．</p>
+<li><p><a href="https://charlotte1816.github.io/Reviews/physical_books/">推薦したい物理学書</a></p>
 </li>
 </ul>
 <hr />
@@ -73,9 +66,8 @@
     <![CDATA[  
 <h1 id="et_cetera">et cetera</h1>
 <hr />
-<p><strong>目次</strong></p><hr />
 <ul>
-<li><p><a href="https://charlotte1816.github.io/links/">リンク集</a></p>
+<li><p><a href="https://charlotte1816.github.io/et_cetera/links/">リンク集</a></p>
 </li>
 </ul>
 <hr />
