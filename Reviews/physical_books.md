@@ -1,5 +1,5 @@
 +++
-title = physical_books
+title = "physical_books"
 +++
 
 @def title = "推薦したい物理学書"
