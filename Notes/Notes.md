@@ -2,6 +2,8 @@
 title = "Notes"
 +++
 
+@def title = "Notes"
+@def description = "物理学に関するノート"
 
 # Notes
 

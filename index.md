@@ -1,5 +1,5 @@
-@def rss_title = "homepage"
-@def rss_description = "This is homepage of mysite"
+@def rss_title = "Physics Notes"
+@def rss_description = "主に物理学に関する記事を綴ったサイト"
 @def rss_pubdate = Date(2024, 7, 2)
 
 # Physics Notes

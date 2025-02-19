@@ -2,6 +2,9 @@
 title = "et_cetera"
 +++
 
+@def title = "et cetera"
+@def description = "その他"
+
 # et cetera
 
 ---
