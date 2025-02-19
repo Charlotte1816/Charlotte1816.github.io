@@ -13,6 +13,21 @@ title = "Notes"
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 \rem{
     埋め込まれたPDFが正しく表示されない場合があります．
 }
@@ -24,5 +39,6 @@ title = "Notes"
 ~~~
 <iframe src="/Notes/GTnote.pdf" width="100%" height="600px"></iframe>
 ~~~
+-->
 
 ---
