@@ -96,4 +96,7 @@ title = "et_cetera"
 * [立川裕二氏のサイト](https://member.ipmu.jp/yuji.tachikawa/)
     物理学者の立川裕二氏のサイト．論文に至る経緯や，講義ノート，多くの記事，学生へのアドバイスなどを読むことが出来る．同氏の[Youtubeチャンネル](https://www.youtube.com/@iroganai/featured)からも非常に有益な動画が公開されている．
 
+* [山崎雅人氏のサイト](https://member.ipmu.jp/masahito.yamazaki/index-j.shtml)
+    物理学者の山崎雅人氏のサイト．物理学に関する様々な記事が公開されている．Book Guideが豊富でとても参考になった．
+
 ---
