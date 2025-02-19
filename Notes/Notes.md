@@ -8,8 +8,6 @@ title = "Notes"
 
 # Notes
 
----
-
 なんか書く予定．
 
 ---

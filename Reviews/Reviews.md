@@ -8,8 +8,6 @@ title = "Reviews"
 
 # Reviews
 
----
-
 * [推薦したい物理学書](/Reviews/physical_books/)
 
 ---
