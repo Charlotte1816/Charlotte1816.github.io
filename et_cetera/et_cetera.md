@@ -10,12 +10,6 @@ title = "et_cetera"
 
 ---
 
-**目次**
-
-\toc
-
----
-
-* [リンク集](/links/)
+* [リンク集](/et_cetera/links/)
 
 ---
