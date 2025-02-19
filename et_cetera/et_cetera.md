@@ -48,10 +48,10 @@ title = "et_cetera"
 
 * [松尾信一郎の雑記帳](https://www.math.nagoya-u.ac.jp/~shinichiroh/notebook.html)
     数学者の松尾信一郎氏のサイト．数学に関する様々な記事が読める．数学以外の記事も参考になる．
-
+<!--
 * [Mathematics Site](https://www.jmilne.org/math/)
     数学者のJames Milne氏のサイト．講義ノートが豊富で参考になる．
-
+-->
 * [Mathematics Stack Exchange](https://math.stackexchange.com/)
     Webサービス企業Stack Exchangeが提供する，数学に関するサイト．質疑応答形式で数学に関する様々な議論が日々交わされている．
 
