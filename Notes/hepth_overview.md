@@ -50,21 +50,21 @@ title = "hepth_overview"
 
 ### 標準模型までの歴史
 
-* **1928年**：Paul Diracが相対論的量子力学により電子の反粒子の存在を予言．
-* **1931年**：Wolfgang Pauliがニュートリノの存在を予言．
-* **1932年**：Carl Andersonが電子の反粒子である陽電子を発見．
-* **1948年**：朝永 振一郎，Richard Feynman，Julian SchwingerによるQEDの繰り込みの発表．
-* **1954年**：楊 振寧，Robert MillsによるYang-Mills理論の発表．
-* **1956年**：楊 振寧，李 政道によるパリティの破れの予言．Frederick Reines，Clyde Cowanらによるニュートリノの発見．
+* **1928年**：Paul Diracが相対論的量子力学により電子の**反粒子**の存在を予言．
+* **1931年**：Wolfgang Pauliが**ニュートリノ**の存在を予言．
+* **1932年**：Carl Andersonが電子の反粒子である**陽電子**を発見．
+* **1948年**：朝永 振一郎，Richard Feynman，Julian SchwingerによるQEDの**繰り込み**の発表．
+* **1954年**：楊 振寧，Robert Millsによる**Yang-Mills理論**の発表．
+* **1956年**：楊 振寧，李 政道による**パリティの破れ**の予言．Frederick Reines，Clyde Cowanらによるニュートリノの発見．
 * **1957年**：呉 健雄らのグループによるパリティの破れの発見．
-* **1964年**：James Cronin，Val FitchらのグループによるCP対称性の破れの発見．Murray Gell-Mannによるクォーク模型の提唱．Peter HiggsによるHiggs機構の提唱．
+* **1964年**：James Cronin，Val Fitchらのグループによる**CP対称性の破れ**の発見．Murray Gell-Mannによる**クォーク模型**の提唱．Peter Higgsによる**Higgs機構**の提唱．
 * **1967年**：Steven Weinbergによる後のGWS理論の発表．
 * **1971年**：Gerard 't Hooft，Martinus VeltmanによるYang-Mills理論の繰り込みの発表．
-* **1973年**：小林 誠，益川 敏英による小林・益川理論の提唱．David Gross，Frank Wilczek，David Politzerによる漸近的自由性の発見．ガーガメル実験による中性カレント反応の発見．
-* **1974年**：Samuel Tingらのグループ，Burton Richterらのグループによる$J/\psi$中間子(チャームクォーク)の発見．
-* **1977年**：Leon LedermanらのグループによるY中間子(ボトムクォーク)の発見．
-* **1983年**：Carlo Rubbia，Simon van der MeerらのグループによるWボソン，Zボソンの発見．
-* **1995年**：テバトロン実験によるトップクォークの発見．
-* **2012年**：LHC実験によるHiggs粒子の発見．
+* **1973年**：小林 誠，益川 敏英による**小林・益川理論**の提唱．David Gross，Frank Wilczek，David Politzerによる**漸近的自由性**の発見．ガーガメル実験による**中性カレント反応**の発見．
+* **1974年**：Samuel Tingらのグループ，Burton Richterらのグループによる$J/\psi$**中間子(チャームクォーク)**の発見．
+* **1977年**：Leon Ledermanらのグループによる**Y中間子(ボトムクォーク)**の発見．
+* **1983年**：Carlo Rubbia，Simon van der Meerらのグループによる**Wボソン，Zボソン**の発見．
+* **1995年**：テバトロン実験による**トップクォーク**の発見．
+* **2012年**：LHC実験による**Higgs粒子**の発見．
 
 ---
