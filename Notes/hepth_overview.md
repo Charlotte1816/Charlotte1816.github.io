@@ -38,6 +38,6 @@ title = "hepth_overview"
     * Higgs粒子(質量の起源)
 を分類する理論である．
 
-\figenv{標準模型における素粒子(Ref.[Wikipedia](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E6%A8%A1%E5%9E%8B))}{/assets/Standard_Model_of_Elementary_Particles-ja.svg.png}{width:50%;border: 1px solid red;}
+\figenv{標準模型における素粒子(Ref.[Wikipedia](https://en.wikipedia.org/wiki/Standard_Model))}{/assets/Standard_Model_of_Elementary_Particles-ja.svg.png}{width:50%;border: 1px solid red;}
 
 ---
