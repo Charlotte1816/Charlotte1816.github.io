@@ -10,4 +10,6 @@ title = "Notes"
 
 * [素粒子物理学の地図](/Notes/hepth_overview/)
 
+* [TOEIC対策](/Notes/toeic/)
+
 ---
